@@ -1,4 +1,4 @@
-/* Codded by @PLK
+/* Codded by Drips Memes
 HEHE
 */
 const Asena = require('../events');

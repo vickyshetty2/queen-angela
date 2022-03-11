@@ -1,3 +1,8 @@
+## WATCH VIDEO HOW TO DEPLOY CLICK ON YOUTUBE ICON
+
+
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/QU9ffSMTLoY)
+
 <div align="center">
 
  </a>
@@ -17,7 +22,7 @@
 <img src=https://i.imgur.com/wvTMw09.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/zim-bot"><img title="Author-DripsMemes" src="https://img.shields.io/badge/Author-zim-bot/zim-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/zim-bot"><title="Author"img src="https://img.shields.io/badge/Author-zim-bot/zim-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -54,16 +59,16 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 ----
 
   <p align="center">
-  <a href="https://github.com/zim-bot/madelinee">
+  <a href="https://github.com/zim-bot/queen-angela">
     
-<a href="https://github.com/Amal-ser/followers">
-<img src="https://img.shields.io/github/repo-size/zim-bot/madeline?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/zim-bot/followers">
+<img src="https://img.shields.io/github/repo-size/zim-bot/queen-angela?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/zim-bot/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/zim-bot/madeline/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zim-bot/madeline?color=blue&style=flat-square"></a>
-<a href="https://github.com/zim-bot/madeeline/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Amal-ser/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/zim-bot/queen-angela/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zim-bot/queen-angela?color=blue&style=flat-square"></a>
+<a href="https://github.com/zim-bot/queen-angela/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zim-bot/queen-angela?color=blue&style=flat-square"></a>
+<a href="https://github.com/zim-bot/queen-angela/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zim-bot/queen-angela?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## DRIPS MEMES

@@ -1,5 +1,4 @@
-/*coded by ameer-kallumthodi
-https://youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw
+/*coded by Drips Memes
 */
 
 const Asena = require('../events');

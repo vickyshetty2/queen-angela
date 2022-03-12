@@ -1,3 +1,6 @@
+// Queen-Angela ©️Zim-bot 2022 all rights reserved
+
+
 const Asena = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
 const axios = require('axios');

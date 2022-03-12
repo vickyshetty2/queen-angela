@@ -1,4 +1,4 @@
- /* Codded by Phaticusthiccy
+ /* Codded by Drips Memes
 Unlimited API for Textpro & Photooxy.
 Material: https://www.npmjs.com/package/w5-textmaker
 Github: https://github.com/WH173-5P1D3R/txtmaker

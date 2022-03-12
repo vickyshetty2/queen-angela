@@ -1,3 +1,6 @@
+// Queen-Angela 2022 ©️Zimbot
+// If you're copying code please copy with credit
+
 const Asena = require('../events');
 const config = require('../config');
 const Heroku = require('heroku-client');

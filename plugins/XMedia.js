@@ -1,4 +1,4 @@
-/* Codded by @phaticusthiccy
+/* Codded by Drips Memes
 re-editted by afnanplk
 */
 

@@ -1,3 +1,8 @@
+Don't forget to give it a star  🌟
+
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A)
+
+
 ## WATCH VIDEO HOW TO DEPLOY CLICK ON YOUTUBE ICON
 
 

@@ -52,7 +52,8 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/queen-angela)
+
 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/QUEEN-ANGELA-NEW-QR?v=1)
